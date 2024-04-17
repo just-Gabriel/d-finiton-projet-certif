@@ -1,0 +1,25 @@
+                       ****************Fonctionalitées**************
+
+
+
+
+                       
+
+    Devra permettre a un super utilisateur de : ROLE "Admin" 
+
+--gérer les reservations
+--gérer le plannig de ces employés;
+--mettre en avant ces colaborateurs (important);
+
+    ce qui sera réalisable depuis le client : ROLE "User classique"
+
+--voir une présentation suffisament intuitive : des préstations, des logements, 
+--reserver un logement ;
+--voir une partie dédier aux artisants associés (important);
+
+    technologie 
+    
+
+
+
+ 

@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(166, 215, 117);
+  height: 2000px;
+}
+.h1 {
+  color: rgb(198, 111, 111);
+  display: flex;
+  justify-content: center;
+  font-size: 200%;
+  font-family: "Courier New", Courier, monospace;
+}
+.p1 {
+  color: black;
+  display: flex;
+  justify-content: center;
+  font-size: 80px;
+  font-family: fantasy;
+}
+.p2 {
+  color: rgb(87, 25, 174);
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.h2 {
+  color: rgb(24, 23, 23);
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.image {
+  display: flex;
+  justify-content: center;
+}
