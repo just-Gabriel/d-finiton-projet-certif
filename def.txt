@@ -18,6 +18,9 @@
 --voir une partie dédier aux artisants associés (important);
 
     technologie 
+
+---symfony quoi qu'il arrive 
+---JS ou react j' hésite encore 
     
 
 
